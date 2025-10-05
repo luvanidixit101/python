@@ -16,3 +16,7 @@ if "python" in text:
     print("The word 'python' is in the string!")
 else:
     print("The word 'python' is not in the string.")
+
+    #hello world
+    #hi
+    
